@@ -1,0 +1,32 @@
+.column {
+    float: left;
+    margin-right: 1em;
+}
+
+#compare-area {
+    clear: left;
+    margin-top: 20px;
+}
+
+.nochange {
+    background-color: #ccffcc;
+}
+
+.change {
+    background-color: #e5b7b7;
+    font-weight: bold;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#favourites {
+    margin-top: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    min-height: 120px;
+}
